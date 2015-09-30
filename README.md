@@ -9,6 +9,6 @@ This project implements
 
 To compile
 
-  mkdir build
-  cd build
-  cmake ..
+    mkdir build
+    cd build
+    cmake ..
