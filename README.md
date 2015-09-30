@@ -6,3 +6,9 @@ This project implements
 * Sorted Linked List
 * Unsorted Array List
 * Sorted Array List
+
+To compile
+
+  mkdir build
+  cd build
+  cmake ..
